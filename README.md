@@ -1,17 +1,12 @@
-# hello_unimed
+# Hello Unimed - Flutter Project
 
-A new Flutter project.
+Tugas praktikum pemrograman perangkat bergerak membuat aplikasi *Hello World* pertama menggunakan Flutter.
 
-## Getting Started
+## Identitas Mahasiswa
+* **Nama:** Sofia Zahra
+* **NIM:** 4241250009
+* **Kelas:** PSIK 24C
+* **Program Studi:** Ilmu Komputer - Universitas Negeri Medan (UNIMED)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dokumentasi Aplikasi
+<img width="960" height="540" alt="Screenshot 2026-11-09 220413" src="https://github.com/user-attachments/assets/3e42e64c-4f6b-4f51-a1d4-f6b8dce5cd94" />
