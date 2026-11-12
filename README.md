@@ -9,13 +9,13 @@ Tugas praktikum pemrograman perangkat bergerak membuat aplikasi *Hello World* pe
 * **Program Studi:** Ilmu Komputer - Universitas Negeri Medan (UNIMED)
 
 # B. Informasi Versi Flutter
-![Informasi Versi Flutter](./assets/flutterversion.png)
+![Informasi Versi Flutter](./images/flutterversion.png)
 
 # C. Screenshort Flutter Doctor
-![Screenshort Flutter Doctor](./assets/flutterdoctor.png)
+![Screenshort Flutter Doctor](./images/flutterdoctor.png)
 
 # D. Screenshort Aplikasi Berjalan di Emullator
-![Screenshort Aplikasi Berjalan di Emullator](./assets/emulator.png)
+![Screenshort Aplikasi Berjalan di Emullator](./images/emulator.png)
 
 # E. Kendala Praktikum dan Solusinya
 Kendala Path PowerShell (flutter tidak dikenali):
