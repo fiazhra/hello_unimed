@@ -12,7 +12,7 @@ Tugas praktikum pemrograman perangkat bergerak membuat aplikasi *Hello World* pe
 ![Informasi Versi Flutter](./images/flutterversion.png)
 
 # C. Screenshort Flutter Doctor
-![Screenshort Flutter Doctor](./images/flutterdoctor.png)
+![Screenshort Flutter Doctor](images/flutterdoctor.png)
 
 # D. Screenshort Aplikasi Berjalan di Emullator
 ![Screenshort Aplikasi Berjalan di Emullator](./images/emulator.png)
